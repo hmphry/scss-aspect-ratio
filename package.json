@@ -1,0 +1,24 @@
+{
+  "name": "scss-aspect-ratio",
+  "version": "1.0.0",
+  "description": "Simple SCSS Aspect Ratios",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmphry/scss-aspect-ratio.git"
+  },
+  "keywords": [
+    "aspect",
+    "ratio",
+    "scss"
+  ],
+  "author": "hmphry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmphry/scss-aspect-ratio/issues"
+  },
+  "homepage": "https://github.com/hmphry/scss-aspect-ratio#readme"
+}
